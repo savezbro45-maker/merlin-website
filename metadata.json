@@ -1,0 +1,6 @@
+{
+  "name": "MERLIN — AI Website Development Studio",
+  "description": "Premium modern web development studio crafting high-performing digital experiences, responsive websites, e-commerce stores, and conversion-focused landing pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
